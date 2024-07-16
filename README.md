@@ -9,21 +9,23 @@ ______________________
 Command example for launching the server application with 3 different parameters:
 
 java -jar server_2.jar portNumber pathToDataBase pathToOutputDir
-java -jar server_2.jar 8080 \database.sqlite3 \output
 
 portNumber - Integer value representing the number of the port on which the server listens.
 
 pathToDatabase - String that contains the path to the sqlite3 database file (e.g. ./inputDir/database.sqlite3).
 
 pathToOutputDir - String that contains path to specific output location where zip file should be stored.
+
+example: java -jar server_2.jar 8080 \database.sqlite3 \output
 ______________________
 While server application is running, you can launch the client application:
 
 java -jar client_2.jar serverAddress portNumber pathToInputDir
-java -jar client_2.jar 127.0.0.1 8080 \input
 
 serverAddress - String that describes the server computer address.
 
 portNumber - Integer value representing the port number on which the application will expect requests.
 
 pathToInputDir - String that contains the path to the input directory (e.g. ./input/path/inputDir). The input directory will always be provided. This directory will contain one or more input files whose format might be excel, text… (.xlsx, .txt).
+
+example: java -jar client_2.jar 127.0.0.1 8080 \input

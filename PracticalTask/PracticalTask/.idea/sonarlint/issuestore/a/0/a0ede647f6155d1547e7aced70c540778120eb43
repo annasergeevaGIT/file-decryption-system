@@ -1,0 +1,16 @@
+
+}
+java:S1141:"5Extract this nested try block into a separate method.(äîŞûÿÿÿÿ8«îÄ‡2J$e79c59eb-f9c9-438f-a5e9-227e80eea082
+}
+java:S1141D"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8«îÄ‡2J$5bd296b6-996b-4eaf-bf0d-de2691a2c671
+}
+java:S1141a"5Extract this nested try block into a separate method.(†äÓ øÿÿÿÿ8Ÿ«îÄ‡2J$ebedd91f-a75f-4ccb-b867-ee49549c250d
+‰
+java:S1192R"FDefine a constant instead of duplicating this literal "error" 3 times.(£Ø‡8ÚÏæÍ‡2J$f55c04d7-901d-4324-a6d0-1f768d299bb9
+‹
+java:S11927"HDefine a constant instead of duplicating this literal "success" 3 times.(¥Â’Æ8©«îÄ‡2J$d25dcd5a-8fe3-4060-a167-1ea87d64ea54
+m	java:S106"+Replace this use of System.out by a logger.(Ä·ŒÑ8´«îÄ‡2J$161bf0a0-b136-4efc-8a76-ccc1ccfc9a5b
+•
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(÷¤šÈ8»«îÄ‡2J$55f80f8f-2548-4c6d-96b4-17385cd8c3b8
+–
+java:S4042o"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ºèêŒüÿÿÿÿ8ëÏæÍ‡2J$166aabe8-b86e-46d3-9656-2b531ebf7043

@@ -1,0 +1,8 @@
+
+}
+java:S1141@"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8©îÄ‡2J$c70e94c8-0344-4705-89fa-017e4e1c9e52
+}
+java:S1141H"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8©îÄ‡2J$9e6a65f3-28ef-447d-9c71-6bebd0274d0e
+§
+java:S3008	"_Rename this field "LOGGER_DATABASE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¯ç˜şÿÿÿÿ8¥©îÄ‡2J$8e6f4feb-7763-4835-a7cb-a46fd7633d48
+r	java:S106"+Replace this use of System.out by a logger.(ØÄ€Íøÿÿÿÿ8¯©îÄ‡2J$16c9394a-0ec4-4b6d-a142-f859282cc554
